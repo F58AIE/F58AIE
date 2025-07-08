@@ -1,4 +1,4 @@
-‏<h1 align="center"><h1 align="center">
+<h1 align="center">
   🚀 F58AIE — Architect of Intelligence
 </h1>
 
