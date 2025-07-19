@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Self-Taught+AI+Engineer+from+Bahrain;Building+Autonomous+Intelligent+Systems;Teaching+Machines+to+Think&center=true&width=800&height=45&color=00ffcc&vCenter=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Self-Taught+AI+Engineer+from+Bahrain;Building+Autonomous+Intelligent+Systems;Teaching+Machines+to+Think&center=true&width=800&height=45&color=00ffcc&vCenter=true" alt="typing banner" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="AI Thinking" />
 </p>
 
 ---
@@ -21,10 +21,19 @@
 </p>
 
 <p align="center">
-  💡 Solving real-world problems using intelligent code  
-  🛠️ Turning ideas into AI-powered products  
+  💡 Solving real-world problems with intelligent code  
+  🛠️ Transforming ideas into AI-powered solutions  
   📦 Always learning. Always shipping.
 </p>
+
+---
+
+### 🧠 About Me
+
+- 🧬 Self-taught AI Engineer focused on **LLMs**, **autonomous agents**, and **intelligent automation**  
+- 📍 Based in **Bahrain**, building with global ambition  
+- ⚙️ Crafting scalable systems that *think and adapt*  
+- 🎯 Motto: *Simple code. Powerful outcomes.*
 
 ---
 
@@ -38,28 +47,19 @@
 
 ---
 
-### 🚧 What I’m Working On
+### 🚧 Currently Building
 
+- 🤖 LLM-powered autonomous workflows  
 - 🔁 AI agents that reason, act, and evolve  
-- 🤖 LLM pipelines with autonomous workflows  
-- ⚙️ Full-stack projects powered by .NET, Vue, and Python  
-- 🧠 Researching the edge of human-AI collaboration
-
----
-
-### 🧠 About Me
-
-- 🧬 Self-taught AI Engineer focused on **LLMs**, **agents**, and intelligent automation  
-- 📍 Based in **Bahrain**, engineering with global ambition  
-- ⚙️ Passionate about building intelligent, scalable systems  
-- 🎯 Motto: *Simple code. Powerful outcomes.*
+- 🛠️ Full-stack apps with .NET, Vue & Python  
+- 🧠 Researching human-AI collaboration
 
 ---
 
 ### 🧰 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dotnet,vue,react,nodejs,ts,js,tailwind,bootstrap,vscode,postman,git,github,docker,mongodb,mysql,azure,linux" />
+  <img src="https://skillicons.dev/icons?i=python,dotnet,vue,react,nodejs,ts,js,tailwind,bootstrap,vscode,postman,git,github,docker,mongodb,mysql,azure,linux" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -72,11 +72,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F58AIE&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F58AIE&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
-
 
 ### 📈 Contribution Breakdown
 
@@ -88,26 +87,26 @@
 
 ---
 
-### ⏳ My Dev Timeline
+### ⏳ Dev Journey
 
-- 🧠 2022: First steps into AI and software development  
-- ⚙️ 2023: Built first full-stack app with Vue + .NET  
-- 🧪 2024: Exploring LLMs, Agents, and automation  
-- 🚀 2025: Building production-grade AI tools and systems
+- 🧠 **2022** — First steps into AI & software engineering  
+- ⚙️ **2023** — Built first full-stack app with Vue + .NET  
+- 🧪 **2024** — Exploring LLMs, agents & automation  
+- 🚀 **2025** — Shipping production-grade AI systems
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/F58AIE">
-    <img src="https://img.shields.io/badge/GitHub-F58AIE-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/F58AIE" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-F58AIE-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/F58AIE">
-    <img src="https://img.shields.io/badge/Twitter-@F58AIE-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/F58AIE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@F58AIE-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.buymeacoffee.com/f58aie">
-    <img src="https://img.shields.io/badge/Support-F58AIE-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <a href="https://www.buymeacoffee.com/f58aie" target="_blank">
+    <img src="https://img.shields.io/badge/Support-F58AIE-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support" />
   </a>
 </p>
 
@@ -116,10 +115,10 @@
 ### 🔮 Final Thought
 
 <p align="center">
-  <i>“True intelligence isn’t in the models we build — it’s in the minds that build them.”</i><br>
+  <i>“The smartest machine will never outthink the purpose behind its creator.”</i><br>
   <b>— F58AIE</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58FFD4&center=true&vCenter=true&width=700&lines=Machines+are+learning...;Humans+must+lead+them." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58FFD4&center=true&vCenter=true&width=700&lines=Machines+are+learning...;Humans+must+lead+them." alt="Final Typing Banner" />
 </p>
